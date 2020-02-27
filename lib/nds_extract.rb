@@ -6,7 +6,7 @@
   result = {
   }
   #
-@@ -18,5 +19,16 @@ def directors_totals(nds)
+@ -18,5 +19,16 @@ def directors_totals(nds)
   #
   #
   # Be sure to return the result at the end!
